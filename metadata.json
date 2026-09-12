@@ -1,0 +1,8 @@
+{
+  "name": "お薬飲んだ？",
+  "description": "高齢者にも見やすく使いやすい、通知・残薬管理・カレンダー・PDF出力付きの服薬管理アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
